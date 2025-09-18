@@ -1,0 +1,291 @@
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\SistemaDropToParadise.exe.config
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\SistemaDropToParadise.exe
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\SistemaDropToParadise.pdb
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.csproj.AssemblyReference.cache
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.Properties.Resources.resources
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.csproj.GenerateResource.cache
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.csproj.CoreCompileInputs.cache
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.exe
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.pdb
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formFuncionario.resources
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.FormCargo.resources
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\MySql.Data.xml
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.csproj.CopyComplete
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formCategoria.resources
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formMarca.resources
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.FormProduto.resources
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.FormCliente.resources
+D:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\SistemaDropToParadise.exe.config
+D:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\SistemaDropToParadise.exe
+D:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\SistemaDropToParadise.pdb
+D:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\MySql.Data.xml
+D:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.csproj.AssemblyReference.cache
+D:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.FormCargo.resources
+D:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formCategoria.resources
+D:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.FormCliente.resources
+D:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formMarca.resources
+D:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.FormPrincipal.resources
+D:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formFuncionario.resources
+D:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.FormProduto.resources
+D:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.Properties.Resources.resources
+D:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.csproj.GenerateResource.cache
+D:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.csproj.CoreCompileInputs.cache
+D:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.csproj.CopyComplete
+D:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.exe
+D:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.pdb
+F:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\SistemaDropToParadise.exe.config
+F:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\SistemaDropToParadise.exe
+F:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\SistemaDropToParadise.pdb
+F:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\MySql.Data.dll
+F:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\MySql.Data.xml
+F:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.csproj.AssemblyReference.cache
+F:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.FormCargo.resources
+F:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formCategoria.resources
+F:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.FormCliente.resources
+F:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formMarca.resources
+F:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.FormPrincipal.resources
+F:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formFuncionario.resources
+F:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.FormProduto.resources
+F:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.Properties.Resources.resources
+F:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.csproj.GenerateResource.cache
+F:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.csproj.CoreCompileInputs.cache
+F:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.csproj.CopyComplete
+F:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.exe
+F:\Drop To Paradise\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.pdb
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formConsFuncionario.resources
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formConsCliente.resources
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\MySql.Data.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formConsProduto.resources
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\SistemaDropToParadise.exe.config
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\SistemaDropToParadise.exe
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\SistemaDropToParadise.pdb
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.FormCargo.resources
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formCategoria.resources
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.FormCliente.resources
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formConsCliente.resources
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formConsFuncionario.resources
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formConsProduto.resources
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formMarca.resources
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formFuncionario.resources
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.FormProduto.resources
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.Properties.Resources.resources
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.csproj.CopyComplete
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.exe
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.pdb
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\SistemaDropToParadise.exe.config
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\SistemaDropToParadise.exe
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\SistemaDropToParadise.pdb
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\MySql.Data.xml
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.csproj.AssemblyReference.cache
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.FormCargo.resources
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formCategoria.resources
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.FormCliente.resources
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formConsCliente.resources
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formConsFuncionario.resources
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formConsProduto.resources
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formMarca.resources
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formFuncionario.resources
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.FormProduto.resources
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.Properties.Resources.resources
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.csproj.GenerateResource.cache
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.csproj.CoreCompileInputs.cache
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.csproj.CopyComplete
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.exe
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.pdb
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\RdlCompile.cache
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\RdlCompile.compiled
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\EnvDTE.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\stdole.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.MSXML.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formRelFuncionario.resources
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formRelProduto.resources
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\EnvDTE.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\stdole.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formRelFuncionario.resources
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formRelProduto.resources
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formRelCliente.resources
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formRelCliente.resources
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.panelDrop1.resources
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.panelDrop1.resources
+C:\Users\victor.asouza19\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formVenda49.resources
+C:\Users\Administrator\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formVenda49.resources
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\EnvDTE.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\stdole.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\Microsoft.MSXML.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.panelDrop1.resources
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formRelCliente.resources
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formRelFuncionario.resources
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formRelProduto.resources
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\SistemaDropToParadise.formVenda49.resources
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\RdlCompile.cache
+C:\Users\user_acronus\source\repos\SistemaDropToParadise\SistemaDropToParadise\obj\Debug\RdlCompile.compiled

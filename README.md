@@ -5,7 +5,7 @@ Drop to Paradise é um website com sistema de gerenciamento de produtos e vendas
 Funcionalidades
 
 - Cadastro de produtos, clientes, funcionários, marcas e categorias 
-- Atualização, Relatórios, exclusão e gerenciamento de estoque
+- Atualização, Relatórios, exclusão.
 - Controle de preços, custos e descontos
 - Sistema de promoção de produtos
 - Organização de categorias e marcas

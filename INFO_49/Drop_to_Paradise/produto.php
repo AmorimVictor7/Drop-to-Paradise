@@ -119,7 +119,7 @@ $query = mysqli_query($conexao, $sql);
           <?php
           while ($produto = mysqli_fetch_assoc($query)) {
             $emPromocao = $produto['preco_promocao'] == 1;
-            $preco = $emPromocao ? $produto['preco_fina_promo'] : $produto['preco_venda'];
+            $preco = $emPromocao ? $produto['preco_final_promo'] : $produto['preco_venda'];
           ?>
             <div class="col-md-4 mb-4 d-flex justify-content-center">
               <div class="card" style="width: 18rem; position: relative;">

@@ -1,13 +1,17 @@
 <?php
 
-//CONNEXÃO COM O BANCO DE DADOS #
+// CONEXÃO COM O BANCO DE DADOS
 require_once '../../conexao/conecta.php';
 
+// FILTRO
+$status = $_POST['status'] ?? '';
 
-# FILTROS #
-$status = $_POST['status'];
-# CAMPO BUSCA#
-$nome =   mysqli_real_escape_string($conexao, $_POST['nome']);
+// CAMPO BUSCA
+$nome = mysqli_real_escape_string(
+    $conexao,
+    $_POST['nome'] ?? ''
+);
+
 ?>
 
 <table class="table">

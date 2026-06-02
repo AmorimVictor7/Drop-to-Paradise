@@ -1,0 +1,36 @@
+.navbar {
+
+    background-color: #284c9e !important ; 
+}
+.nav-link  {
+    margin-right: 10px;
+    font-size: 16px;
+    padding: 10px 35px;
+    position: relative;
+    text-decoration: none;
+    color: rgb(29, 107, 196);
+    
+}
+
+/* esse é o efeito que fica quando passa o mouse em cima do conteúdo */
+.nav-link::after {
+    content: " ";
+    width: 0%;
+    height: 4px;
+    background-color: #203f86;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transition: 0.5s ease-in-out;
+    text-decoration: none;
+    
+   
+}
+
+.nav-link:hover::after {
+    width: 100%;
+
+    
+
+} 
+

@@ -1,0 +1,213 @@
+/* estilos gerais */
+html,
+body {
+    font-family: "Acme", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+}
+
+/* cabeçalho */
+
+header {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+
+    font-family: "Acme", sans-serif;
+
+
+}
+
+.barra {
+    background-color: #284c9e;
+    width: 100%;
+    height: 40px;
+
+}
+
+
+
+
+/* LOGO */
+.logoloja {
+    display: block; 
+    margin: 20px auto 0 auto; 
+    height: 125px;
+    width: auto;
+    max-width: 100%;
+}
+
+
+/* Estilo da barra de pesquisa (usando grid flexível) */
+.barrapesquisa {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* Campo de input da pesquisa */
+.barrapesquisa input {
+    width: 100%;
+    max-width: 250px;
+    padding: 5px;
+    font-size: 14px;
+    border-radius: 2px;
+    box-shadow: 3px 3px 10px #ccc;
+}
+
+/* Botão da pesquisa */
+.barrapesquisa button {
+    padding: 5px 10px;
+    font-size: 14px;
+    border-radius: 2px;
+    box-shadow: 3px 3px 10px #ccc;
+    background-color: #203f86;
+    color: white;
+    border: none;
+}
+
+/* NAVBAR */
+.navbar-nav .nav-item .nav-link {
+    font-size: 16px;
+    padding: 10px 20px;
+}
+
+/* Hover underline suave */
+.nav-item a::after {
+    content: "";
+    width: 0%;
+    height: 4px;
+    background-color: #203f86;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transition: width 0.3s ease-in-out;
+}
+
+.nav-item a:hover::after {
+    width: 100%;
+}
+
+/* Evitar bugs de responsividade */
+@media (max-width: 768px) {
+    .logoloja {
+        max-height: 60px;
+        margin-bottom: 10px;
+    }
+
+    .navbar-nav {
+        text-align: center;
+    }
+
+    .barrapesquisa {
+        flex-direction: column;
+    }
+
+    .barrapesquisa input,
+    .barrapesquisa button {
+        width: 90%;
+        max-width: none;
+    }
+}
+
+
+
+
+/* Menu de navegação = navbar */
+
+.nav-link {
+    list-style: none;
+    font-size: 200px;
+}
+
+/* aqui seria todo o conteúdo do navbar */
+.nav-item a {
+    margin-right: 10px;
+    font-size: 16px;
+    padding: 10px 35px;
+    position: relative;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+
+}
+
+/* esse é o efeito que fica quando passa o mouse em cima do conteúdo */
+.nav-item a::after {
+    content: " ";
+    width: 0%;
+    height: 4px;
+    background-color: #203f86;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transition: 0.5s ease-in-out;
+    text-decoration: none;
+
+
+}
+
+.nav-item a:hover::after {
+    width: 100%;
+}
+
+/* seção principal */
+main {
+    padding: 20px;
+    text-align: center;
+    flex: 1;
+}
+
+@media (min-width: 200px) {
+    main img {
+        max-width: 100%;
+        height: auto;
+        border: 2px solid #ddd;
+        border-radius: 5px;
+    }
+}
+
+/* esses textos só servem para os titulos de compras  */
+.textos {
+    font-size: 25px;
+    color: #284c9e;
+}
+
+/* bolinha de categorias */
+.categoria {
+    display: flex;
+    /* ficar cada um na mesma medida */
+    justify-content: space-evenly;
+    /* serve para quando a tela diminuir ele vai passando para linha de baixo */
+    flex-wrap: wrap;
+}
+
+.rounded-circle {
+    box-shadow: 3px 3px 20px #ccc;
+}
+
+/* rodapé */
+footer {
+    background-color: #284c9e;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+    margin-top: auto;
+}
+
+.btn_slider {
+    background-color: rgb(0, 0, 0);
+    color: #284c9e;
+}
+
+
+
